@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variáveis: atulibver
-USR="pdvtec"
-PWD="I37#P84G0qx@"
+USR="$1"
+PWD="$2"
 ATULIB_DIR="/Zanthus/Zeus/pdvJava/ATULIB"
 PDVJ_DIR="/Zanthus/Zeus/pdvJava"
 PDV_ZMAN="PDV_ZMAN_1_X_X_732_CZ_L.ZTA"
